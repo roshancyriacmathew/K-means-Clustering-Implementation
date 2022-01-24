@@ -1,5 +1,4 @@
 # K-means-Clustering-Implementation
-K means clustering implementation on the wine quality dataset
 This machine learning project looks at implementing the KMeans clustering algorithm on the wine quality dataset. 
 The elbow method and the silhouette method are used to find the optimum number of clusters. 
 The Kelbow visualizer is also used to select the optimum value for the number of clusters. 
